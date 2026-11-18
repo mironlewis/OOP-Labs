@@ -1,0 +1,5 @@
+RESORT;T01;Сонячна Анталія;Туреччина;60.0;7;PLANE;ALL_INCLUSIVE;5
+EXCURSION;T02;Таємниці Праги;Чехія;45.0;5;BUS;BREAKFAST;6
+WELLNESS;T03;Карпатські джерела;Україна;50.0;10;TRAIN;HALF_BOARD;true
+SHOPPING;T04;Міланський вікенд;Італія;70.0;3;PLANE;NONE;4
+CRUISE;T05;Середземноморська казка;Італія-Іспанія;90.0;8;SHIP;ALL_INCLUSIVE;5
